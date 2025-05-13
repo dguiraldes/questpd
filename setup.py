@@ -8,7 +8,7 @@ setup(
     description='A lightweight wrapper to interact with QuestDB using pandas',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://bitbucket.org/your_username/questpd',
+    url='https://github.com/dguiraldes/questpd.git',
     packages=find_packages(),
     install_requires=[
         'pandas>=2.2.3',
