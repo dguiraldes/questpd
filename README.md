@@ -14,16 +14,10 @@
 
 ## 📦 Installation
 
-You can install `questpd` directly from a Bitbucket repository:
+You can install `questpd` directly from a Git Hub repository:
 
 ```bash
-pip install git+https://bitbucket.org/<your_username>/questpd.git#egg=questpd
-```
-
-Or via SSH for private repos:
-
-```bash
-pip install git+ssh://git@bitbucket.org/<your_username>/questpd.git#egg=questpd
+pip install git+https://github.com/dguiraldes/questpd.git#egg=questpd
 ```
 
 ## 🛠 Usage

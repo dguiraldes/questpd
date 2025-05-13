@@ -4,7 +4,7 @@ setup(
     name='questpd',
     version='0.1.0',
     author='Diego Guiraldes',
-    author_email='diego.guiraldes@hildebrand.co.uk',
+    author_email='dguiraldes@gmail.com',
     description='A lightweight wrapper to interact with QuestDB using pandas',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
