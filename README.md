@@ -39,7 +39,7 @@ client = qdbClient(
 ### Query data from QuestDB
 
 ```python
-df = client.query("SELECT * FROM my_table WHERE time > now - 1h")
+df = client.get_qdb_df("SELECT * FROM my_table WHERE time > now - 1h")
 print(df)
 ```
 ### Upload a DataFrame to QuestDB
